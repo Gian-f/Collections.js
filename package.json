@@ -1,0 +1,14 @@
+{
+  "name": "collections.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gian Felipe da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
