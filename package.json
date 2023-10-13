@@ -9,6 +9,7 @@
   "author": "Gian Felipe da Silva",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^20.8.5",
     "typescript": "^5.2.2"
   }
 }
